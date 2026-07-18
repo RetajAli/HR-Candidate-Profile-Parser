@@ -1,0 +1,10 @@
+streamlit>=1.45
+langchain>=0.3
+langchain-core>=0.3
+langchain-huggingface>=0.3
+huggingface-hub>=0.33
+pydantic>=2.8
+python-dotenv
+pymupdf
+python-docx
+pandas
